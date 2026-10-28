@@ -94,10 +94,3 @@ src/
 | **`useCallback`** | Optimizes callback references (`handleAddTask`, `handleToggleTask`, `handleDeleteTask`) passed to children wrapped in `React.memo`. |
 
 ---
-
-
-5. Click **Deploy**.
-
-### Deploy with Netlify
-1. Drag and drop the `dist/` folder after running `npm run build` into [Netlify Drop](https://app.netlify.com/drop).
-2. Or connect your GitHub repository and set build command to `npm run build` with publish directory `dist`.
