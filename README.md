@@ -95,42 +95,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Node.js (v18 or higher recommended)
-- npm or yarn
-
-### Installation & Run Locally
-```bash
-# 1. Clone repository
-git clone <your-repo-link>
-cd task-dashboard
-
-# 2. Install dependencies
-npm install
-
-# 3. Start development server
-npm run dev
-
-# 4. Build for production
-npm run build
-
-# 5. Preview production build
-npm run preview
-```
-
----
-
-## 🌐 Live Deployment Instructions
-
-You can deploy this project in under 2 minutes:
-
-### Deploy with Vercel
-1. Push your repository to GitHub.
-2. Sign in to [Vercel](https://vercel.com) with GitHub.
-3. Import your `task-dashboard` repository.
-4. Framework Preset: **Vite**.
 5. Click **Deploy**.
 
 ### Deploy with Netlify
